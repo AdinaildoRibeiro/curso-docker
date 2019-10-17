@@ -13,7 +13,7 @@ class MyHTTpHandler(http.server.SimpleHTTPRequestHandler):
         ))
 
 logging.basicConfig(
-    filename='/log/htt-server.log',
+    filename='/log/http-server.log',
     format='%(asctime)s - %(levelname)s - %(message)s',
     level=logging.INFO
 )
