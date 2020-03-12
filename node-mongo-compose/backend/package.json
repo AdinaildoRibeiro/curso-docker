@@ -9,11 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies":{
+  "dependencies": {
     "body-parser": "^1.17.2",
     "cors": "^2.8.3",
     "express": "^4.15.3",
     "mongoose": "^4.11.1",
-    "node-result": "^0.2.6"
+    "node-restful": "^0.2.6"
   }
 }
